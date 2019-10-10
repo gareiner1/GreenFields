@@ -1,7 +1,4 @@
-RESUBMIT
-
--WASD to move frog
--Arrow keys to control camera
--Space to shoot
+-WASD to move
+-Arrow keys shoot
 
 Compiled and developed on Windows 7
